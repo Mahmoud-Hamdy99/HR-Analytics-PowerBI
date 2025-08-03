@@ -1,4 +1,4 @@
-# 📊 HR Analytics - Power BI
+# 📊 HR Analytics Dashboard using Power BI
 
 ## 🎯 Project Goals
 - **Primary Goal**: Monitor key HR metrics of employees.
@@ -6,6 +6,8 @@
 
 ## 🧰 Tools Used
 - Power BI
+- Dax
+- Power Query
 
 ## 📌 Description
 This dashboard provides a visual summary of the HR data to help HR departments:
@@ -14,11 +16,11 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 - Identify trends and possible causes of employee attrition.
 - Make data-driven decisions to improve employee retention.
 
-## 🔍 All Process
-
-1. **Data modeling** using **Snowflake schema**  
-2. **Exploratory Data Analysis**  
-3. Using **DAX functions**:
+## ⚙️ Project Workflow
+1. **Data Collection
+2. **Data modeling** using **Snowflake schema**  
+3. **Exploratory Data Analysis**  
+4. Using **DAX functions**:
    - `AVERAGE()`
    - `MAX()`, `MIN()`
    - `DISTINCTCOUNT()`
@@ -27,7 +29,7 @@ This dashboard provides a visual summary of the HR data to help HR departments:
    - `IF` conditions
    - `BLANK()`
    - `FORMAT()`
-4. **Report Design** using interactive visuals and KPIs
+5. **Report Design** using interactive visuals and KPIs
 
 ## 📊 Key Features
 - Interactive filters (department, gender, etc.)
@@ -69,6 +71,12 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 12. The most common job title in the Technology department is **Software Engineer**.
 13. **Employees with 6 years of tenure** have an **attrition rate of 17.4%**, slightly higher than the overall rate.
 
+## 💡 Recommendations
+
+- **Investigate high attrition** in the Sales department to identify possible role or management issues.
+- **Re-evaluate frequent travel policies**, as it’s linked to higher turnover.
+- **Conduct pay equity reviews** to address salary gaps across ethnic groups.
+- **Launch retention programs** for mid-tenure employees (around 6 years).
 ----
 
 ## 📧 Contact
