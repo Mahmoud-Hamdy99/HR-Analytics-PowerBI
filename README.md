@@ -27,7 +27,13 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 - Clean, user-friendly layout
 
 ## 📷 Dashboard Preview
+### Report 1 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Mahmoud-Hamdy99/HR-Analytics-PowerBI/refs/heads/main/page%201.png)
+### Report 2
+
+### Report 3 
+
+### Report 4
 
 
 ## 🔍 Key Insights Uncovered
