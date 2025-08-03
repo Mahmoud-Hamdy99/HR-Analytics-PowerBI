@@ -15,10 +15,19 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 - Make data-driven decisions to improve employee retention.
 
 ## 🔍 All Process
-1-Data modeling using Snowflake schema.
-2-Exploratory data analysis.
-3-DAX functions like AVG , Max , Min , Distict Count, Calculate, divide , userelationship , IF condiotions , Blank() ,Format.
-4-Report Design.
+
+1. **Data modeling** using **Snowflake schema**  
+2. **Exploratory Data Analysis**  
+3. Using **DAX functions**:
+   - `AVERAGE()`
+   - `MAX()`, `MIN()`
+   - `DISTINCTCOUNT()`
+   - `CALCULATE()`, `DIVIDE()`
+   - `USERELATIONSHIP()`
+   - `IF` conditions
+   - `BLANK()`
+   - `FORMAT()`
+4. **Report Design** using interactive visuals and KPIs
 
 ## 📊 Key Features
 - Interactive filters (department, gender, etc.)
