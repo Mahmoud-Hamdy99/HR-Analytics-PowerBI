@@ -27,12 +27,8 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 - Clean, user-friendly layout
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Screenshots/hr_dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Mahmoud-Hamdy99/HR-Analytics-PowerBI/refs/heads/main/page%201.png)
 
-## 📂 Project Files
-- `HR_Attrition.pbix` — Power BI dashboard (or `.xlsx` if Excel)
-- `HR_Data.xlsx` — Source dataset
-- `/Screenshots/` — Dashboard preview images
 
 ## 🔍 Key Insights Uncovered
 
