@@ -71,9 +71,9 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 
 ----
 
-📧 Contact
-For more informations, please contact:
+## 📧 Contact
 
-Email: mahmoud.hamdy2017@feps.edu.eg
+For more information, feel free to reach out:
 
-LinkedIn: https://www.linkedin.com/in/mahmoud-hamdy-123b4b193/
+- 📩 **Email**: [mahmoud.hamdy2017@feps.edu.eg](mailto:mahmoud.hamdy2017@feps.edu.eg)  
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/mahmoud-hamdy-123b4b193/](https://www.linkedin.com/in/mahmoud-hamdy-123b4b193/)
