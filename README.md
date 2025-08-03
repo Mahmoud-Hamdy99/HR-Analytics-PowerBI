@@ -5,20 +5,20 @@
 - **Secondary Goal**: Understand what factors impact employee attrition.
 
 ## 🧰 Tools Used
-- Power BI 
+- Power BI
 
 ## 📌 Description
 This dashboard provides a visual summary of the HR data to help HR departments:
-- Track active and inactive employees
-- Analyze attrition by age, gender, department, and job role
-- Identify trends and possible causes of employee attrition
-- Make data-driven decisions to improve employee retention
+- Track active and inactive employees.
+- Analyze attrition by age, gender, department, and job role.
+- Identify trends and possible causes of employee attrition.
+- Make data-driven decisions to improve employee retention.
 
 ## 🔍 All Process
-1-Data modeling using Snowflake schema
-2-Exploratory data analysis
+1-Data modeling using Snowflake schema.
+2-Exploratory data analysis.
 3-DAX functions like AVG , Max , Min , Distict Count, Calculate, divide , userelationship , IF condiotions , Blank() ,Format.
-4-Report Design
+4-Report Design.
 
 ## 📊 Key Features
 - Interactive filters (department, gender, etc.)
@@ -27,14 +27,17 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 - Clean, user-friendly layout
 
 ## 📷 Dashboard Preview
-### Report 1 
-![Dashboard Screenshot](https://raw.githubusercontent.com/Mahmoud-Hamdy99/HR-Analytics-PowerBI/refs/heads/main/page%201.png)
-### Report 2
+## 📌 Report 1
+![Report 1](https://raw.githubusercontent.com/Mahmoud-Hamdy99/HR-Analytics-PowerBI/refs/heads/main/page%201.png)
 
-### Report 3 
+### 📌 Report 2
+![Report 2](https://raw.githubusercontent.com/Mahmoud-Hamdy99/HR-Analytics-PowerBI/refs/heads/main/Page%202.png)
 
-### Report 4
+### 📌 Report 3
+![Report 3](https://raw.githubusercontent.com/Mahmoud-Hamdy99/HR-Analytics-PowerBI/refs/heads/main/page%203.png)
 
+### 📌 Report 4
+![Report 4](https://raw.githubusercontent.com/Mahmoud-Hamdy99/HR-Analytics-PowerBI/main/page%204.png)
 
 ## 🔍 Key Insights Uncovered
 
@@ -63,4 +66,5 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 For more informations, please contact:
 
 Email: mahmoud.hamdy2017@feps.edu.eg
+
 LinkedIn: https://www.linkedin.com/in/mahmoud-hamdy-123b4b193/
