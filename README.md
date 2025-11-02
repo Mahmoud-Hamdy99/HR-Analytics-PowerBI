@@ -31,7 +31,7 @@ This dashboard provides a visual summary of the HR data to help HR departments:
    - `FORMAT()`
 5. **Report Design** using interactive visuals and KPIs
 
-## 📊 Key Features
+## Key Features
 - Interactive filters 
 - KPI cards showing key HR metrics
 - Attrition breakdown by multiple factors
