@@ -1,15 +1,15 @@
 # 📊 HR Analytics Dashboard using Power BI
 
-## 🎯 Project Goals
+## Project Goals
 - **Primary Goal**: Monitor key HR metrics of employees.
 - **Secondary Goal**: Understand what factors impact employee attrition.
 
-## 🧰 Tools Used
+## Tools Used
 - Power BI
 - Dax
 - Power Query
 
-## 📌 Description
+## Description
 This dashboard provides a visual summary of the HR data to help HR departments:
 - Track active and inactive employees.
 - Analyze attrition by age, gender, department, and job role.
@@ -71,7 +71,7 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 12. The most common job title in the Technology department is Software Engineer.
 13. Employees with 6 years of tenure have an attrition rate of 17.4%, slightly higher than the overall rate.
 
-## 💡 Recommendations
+## Recommendations
 
 - Investigate high attrition in the Sales department to identify possible role or management issues.
 - Re-evaluate frequent travel policies, as it’s linked to higher turnover.
@@ -79,9 +79,9 @@ This dashboard provides a visual summary of the HR data to help HR departments:
 - Launch retention programs for mid-tenure employees (around 6 years).
 ----
 
-## 📧 Contact
+## Contact
 
 For more information, feel free to reach out:
 
-- 📩 **Email**: [mahmoud.hamdy2017@feps.edu.eg](mailto:mahmoud.hamdy2017@feps.edu.eg)  
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/mahmoud-hamdy-123b4b193/](https://www.linkedin.com/in/mahmoud-hamdy-123b4b193/)
+- **Email**: [mahmoud.hamdy2017@feps.edu.eg](mailto:mahmoud.hamdy2017@feps.edu.eg)  
+- **LinkedIn**: [https://www.linkedin.com/in/mahmoud-hamdy-123b4b193/](https://www.linkedin.com/in/mahmoud-hamdy-123b4b193/)
